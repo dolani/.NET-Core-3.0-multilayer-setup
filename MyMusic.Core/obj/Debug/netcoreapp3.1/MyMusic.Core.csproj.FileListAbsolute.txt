@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\dolani\dev.developer\SEEsharp\MyMusic\MyMusic.Core\bin\Debug\netcoreapp3.1\MyMusic.Core.deps.json
+C:\Users\HP\Desktop\dolani\dev.developer\SEEsharp\MyMusic\MyMusic.Core\bin\Debug\netcoreapp3.1\MyMusic.Core.dll
+C:\Users\HP\Desktop\dolani\dev.developer\SEEsharp\MyMusic\MyMusic.Core\bin\Debug\netcoreapp3.1\MyMusic.Core.pdb
+C:\Users\HP\Desktop\dolani\dev.developer\SEEsharp\MyMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\dolani\dev.developer\SEEsharp\MyMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\dolani\dev.developer\SEEsharp\MyMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\dolani\dev.developer\SEEsharp\MyMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.dll
+C:\Users\HP\Desktop\dolani\dev.developer\SEEsharp\MyMusic\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.pdb
